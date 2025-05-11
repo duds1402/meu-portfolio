@@ -1,8 +1,8 @@
-# 📚 Meu Portfólio de Projetos Acadêmicos e Pessoais
+# Meu Portfólio de Projetos Acadêmicos e Pessoais
 
 Bem-vindo ao meu repositório de projetos! Este espaço foi criado como parte do desafio do **Bootcamp I (2025)** para compor meu portfólio profissional e apresentar meus projetos.
 
-## 🗂️ Estrutura do Repositório
+##  Estrutura do Repositório
 
 - **/academicos/**  
   Projetos desenvolvidos durante minha formação acadêmica.  
@@ -14,7 +14,7 @@ Bem-vindo ao meu repositório de projetos! Este espaço foi criado como parte do
 - **/documentacao/**  
   Arquivos e documentos que ajudam a entender e reproduzir os projetos.
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 - `academicos/cadastro_alunos.py`:  
   Script Python para cadastro simples de alunos, com entrada e armazenamento de dados.
@@ -22,7 +22,7 @@ Bem-vindo ao meu repositório de projetos! Este espaço foi criado como parte do
 - `pessoais/README.md`:  
   Documentação dos projetos pessoais com detalhes técnicos.
 
-## 💻 Como Executar
+## Como Executar
 
 1. Clone este repositório:
    ```bash
